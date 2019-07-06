@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+.idea/
+*.pyc
+secrets.py
+*.sqlite3
+*.lock
