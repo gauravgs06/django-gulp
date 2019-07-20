@@ -1,6 +1,6 @@
 from .base import *
 
-ROOT_URLCONF = 'djangostarter.urls.dev_urls'
+ROOT_URLCONF = '{{ djangostarter }}.urls.dev_urls'
 
 INSTALLED_APPS += [
     
