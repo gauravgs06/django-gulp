@@ -1,1 +1,1 @@
-# '{{ project_name }} Project
+# '{{ project_name }}' Project
